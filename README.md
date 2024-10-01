@@ -5,3 +5,4 @@
 
 <a href="https://joaooodias.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001 </a>
 <a href="https://joaooodias.github.io/html-css/exercicios/ex026/mq002/index.html">teste orientação </a>
+<a href="https://joaooodias.github.io/html-css/exercicios/ex026/mq004/index.html">teste de medias queries</a>
