@@ -14,4 +14,14 @@
     span#burguer{
         display: none;
     }
+    menu {
+        display: block;
+    }
+    menu > ul > li{ 
+        display: inline-block;
+    }
+
+    main{
+        width: 768px;
+    }
  }
